@@ -38,7 +38,7 @@
     "node-uber": "^2.0.0"
   },
   "devDependencies": {
-    "@types/debug": "^0.0.30",
+    "@types/debug": "^0.0.31",
     "@types/dotenv": "^4.0.2",
     "@types/dotenv-safe": "^4.0.1",
     "@types/jest": "^21.1.9",
